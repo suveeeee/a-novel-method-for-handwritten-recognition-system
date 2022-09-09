@@ -1,0 +1,1 @@
+# a-novel-method-for-handwritten-recognition-system
